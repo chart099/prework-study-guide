@@ -1,3 +1,19 @@
-# prework-study-guide
+# Prework Study Guide Webpage
 
-This is a prework project for bootcamp
+## Description
+
+This project is a part of the prework for Northwestern Web Development Coding Bootcamp. 
+
+## Installation
+
+
+## Usage
+
+This Study Guide can be used to review what I learned in the prework module. 
+
+## Credits
+
+
+
+## License
+
